@@ -133,4 +133,4 @@ This tool shells out to whatever `tailscale` is on your `PATH`. Keep `tailscale`
 
 ## License
 
-This repository does not ship a license file yet. If you plan to distribute or accept contributions, add an explicit license (for example MIT or Apache-2.0) so others know the terms.
+Licensed under the [MIT License](LICENSE).
