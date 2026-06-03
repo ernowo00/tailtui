@@ -1,0 +1,4 @@
+# GitHub Linguist: keep the language bar focused on application code.
+Cargo.lock linguist-generated
+specs/** linguist-documentation
+AGENTS.md linguist-documentation
